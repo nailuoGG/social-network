@@ -1,0 +1,21 @@
+#+TITLE: Le's Journal
+#+NICK: Le
+#+DESCRIPTION: 
+#+AVATAR: https://avatars.githubusercontent.com/u/4554827
+#+LINK: https://liujiale.me
+#+GROUP: Org Social https://org-social-relay.andros.dev
+#+FOLLOW: https://andros.dev/static/social.org
+
+* Posts
+** Hello, World
+:PROPERTIES:
+:ID: 2025-10-17T12:28:38+0800
+:LANG: en 
+:TAGS: emacs org-social
+:CLIENT: org-social.el
+:MOOD: 😊 
+:GROUP: Org Social https://org-social-relay.andros.dev 
+:END:
+
+
+Hello world! I just configured org-social in my Emacs built with igc. I hope everything is running smoothly.

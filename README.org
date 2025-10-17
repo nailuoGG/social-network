@@ -1,0 +1,6 @@
+# my social network archive 
+
+
+- org-social
+- mastodon
+- nostr
